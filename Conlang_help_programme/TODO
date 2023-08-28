@@ -1,40 +1,40 @@
 Format: Name, Description, Done or not (X OR -), Time of implementation and if changed/updated YYYYMMDDXXXX
 
 English dictionary file;
-Add the English dictionary file from dwyl on GitHub (the big dictionary with over 400k words);
- ;
-
+Add the English dictionary file from dwyl on GitHub (the big dictionary with over 400k words, (370k words));
+X;
+202308280001;
 
 TTS;
 Add the TTS-programme ResponsiveVoice to read out the sounds and words;
+-;
  ;
-
 
 Random word chooser;
 Chooses 5 random words which are in the same word category (verb, adjective, etc);
+-;
  ;
-
 
 IPA keyboard;
 A visual IPA phonetic keyboard which is interactive for the user;
+-;
  ;
-
 
 A place to write grammar rules;
 A place to write grammar rules, they should also be visible when "making" words;
+-;
  ;
-
 
 A save button;
 A save button where you can choose a .md file to continue later, or a .pdf file so it is read only;
+-;
  ;
-
 
 Upload button;
 A button to upload the .md file so you can continue;
+-;
  ;
-
 A place for the TTS sounds;
 A place to choose which sounds to be included in the language with TTS;
+-;
  ;
-
