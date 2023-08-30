@@ -6,12 +6,17 @@ X;
 202308280001;
 
 TTS;
-Add the TTS-programme ResponsiveVoice to read out the sounds and words;
+Add the TTS programme ResponsiveVoice to read out the sounds and words;
 X;
 202308280001;
 
 Random word chooser;
-Chooses 5 random words which are in the same word category (verb, adjective, etc);
+Chooses five random words that are in the same word category (verb, adjective, etc.), the word groups are chosen manually;
+-;
+ ;
+
+"Wordbuilder";
+Adds a button that takes the randomly chosen words and adds them together if possible, i.e. train-tåg, cart-vagn, train cart-tågvagn;
 -;
  ;
 
