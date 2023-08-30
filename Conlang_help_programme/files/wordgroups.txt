@@ -2,13 +2,13 @@ Nouns:
 Nouns are words that name people, places, things, or ideas. They can be classified into various types based on their characteristics and functions.
 
 Common Nouns: General names for everyday items (e.g., table, city).
-Proper Nouns: Specific names for individuals or places (e.g., Mary, Paris).
 Abstract Nouns: Names for concepts and feelings (e.g., love, freedom).
 Collective Nouns: Words for groups of things or people (e.g., team, family).
 Countable Nouns: Nouns that can be counted individually (e.g., cat, book).
 Uncountable Nouns: Nouns that can't be counted individually (e.g., water, sand).
 Concrete Nouns: Nouns that represent physical objects (e.g., tree, car).
 Compound Nouns: Nouns formed by combining words (e.g., toothpaste, football).
+
 Verbs:
 Verbs express actions, states, or occurrences. They play a crucial role in constructing sentences.
 
@@ -19,6 +19,7 @@ Transitive Verbs: Require a direct object (e.g., eat, paint).
 Intransitive Verbs: Don't require a direct object (e.g., sleep, laugh).
 Regular Verbs: Form their past tense with -ed (e.g., walked, played).
 Irregular Verbs: Have unique past tense forms (e.g., went, ate).
+
 Adjectives:
 Adjectives provide information about nouns, enhancing their descriptions.
 
@@ -28,6 +29,7 @@ Demonstrative Adjectives: Point out specific nouns (e.g., this, those).
 Possessive Adjectives: Show ownership (e.g., my, their).
 Comparative Adjectives: Compare two things (e.g., faster, taller).
 Superlative Adjectives: Indicate highest degree (e.g., fastest, tallest).
+
 Adverbs:
 Adverbs modify verbs, adjectives, or other adverbs, adding context to actions.
 
@@ -36,6 +38,7 @@ Adverbs of Place: Indicate where (e.g., here, everywhere).
 Adverbs of Manner: Describe how (e.g., quickly, softly).
 Adverbs of Frequency: Tell how often (e.g., always, rarely).
 Adverbs of Degree: Modify intensity (e.g., very, too).
+
 Pronouns:
 Pronouns replace nouns, avoiding repetition and adding variety.
 
@@ -45,27 +48,32 @@ Possessive Pronouns: Show ownership (e.g., mine, theirs).
 Relative Pronouns: Introduce relative clauses (e.g., who, which).
 Interrogative Pronouns: Begin questions (e.g., who, what).
 Indefinite Pronouns: Refer vaguely (e.g., everyone, something).
+
 Prepositions:
 Prepositions express relationships between words in a sentence.
 
 Simple Prepositions: Indicate place or time (e.g., in, on, at).
 Compound Prepositions: Combine words (e.g., outside of, because of).
 Complex Prepositions: Include a noun (e.g., in front of, on top of).
+
 Conjunctions:
 Conjunctions connect words, phrases, or clauses.
 
 Coordinating Conjunctions: Join equal elements (e.g., and, but).
 Subordinating Conjunctions: Introduce dependent clauses (e.g., although, because).
 Correlative Conjunctions: Come in pairs (e.g., either...or, neither...nor).
+
 Interjections:
 Interjections are exclamations expressing emotions.
 
 Example: Wow! Ouch!
+
 Articles:
 Articles introduce nouns, indicating specificity.
 
 Definite Article: "The" refers to a specific noun known to both speaker and listener.
 Indefinite Articles: "A" or "an" refer to any nonspecific noun.
+
 Determiners:
 Determiners modify nouns with additional information.
 
