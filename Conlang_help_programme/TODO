@@ -12,8 +12,8 @@ X;
 
 Random word chooser;
 Chooses five random words that are in the same word category (verb, adjective, etc.), the word groups are chosen manually;
--;
- ;
+X;
+20230830001;
 
 "Wordbuilder";
 Adds a button that takes the randomly chosen words and adds them together if possible, i.e. train-tåg, cart-vagn, train cart-tågvagn;

@@ -7,7 +7,7 @@ def read_words_from_file(file_path):
         return [word.lower() for word in words]
 
 def main():
-    folder_paths = ['/path/to/folder1', '/path/to/folder2', '/path/to/folder3', ...]  # Provide the full paths to your folders
+    folder_paths = ['Conlang_help_programme/files/wordgroups/adjectives', 'Conlang_help_programme/files/wordgroups/adverbs', 'Conlang_help_programme/files/wordgroups/articles', 'Conlang_help_programme/files/wordgroups/conjunctions', 'Conlang_help_programme/files/wordgroups/determiners', 'Conlang_help_programme/files/wordgroups/interjunctions', 'Conlang_help_programme/files/wordgroups/nouns', 'Conlang_help_programme/files/wordgroups/prepositions', 'Conlang_help_programme/files/wordgroups/pronouns', 'Conlang_help_programme/files/wordgroups/verbs']  # Provide the full paths to your folders
 
     folder_files = {}
 
